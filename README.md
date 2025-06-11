@@ -120,6 +120,10 @@ you may need to export wayland to get a better UI, do that using
 
 ---
 
+## Collaborators
+- Achintya Jai (ch23b002@smail.iitm.ac.in)
+- Aadi Srivastava (cs23b100@smail.iitm.ac.in)
+
 ## Potential things to do
 
 - [ ] Make a better setup file something that tells much more info about the system! For e.g. what the battery name is, model might think BAT0, but you may have BAT1. We gotta think of a clever way to represent this information.
